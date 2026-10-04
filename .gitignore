@@ -1,0 +1,10 @@
+# Local development files
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
